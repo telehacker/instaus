@@ -5,7 +5,7 @@
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/nekozu/instaus",
+  "repository": "https://github.com/telehacker/instaus",
   "env": {
     "username": {
       "description": "Username instagram",
