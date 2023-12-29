@@ -6,7 +6,7 @@ this userbot is beta. maybe have a bug
 # Run Userbot
 
 # Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nekozu/instaus.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telehacker/instaus)
 
 # Local
 ```
